@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LeaFrock's Github Stats](https://github-readme-stats.vercel.app/api?username=LeaFrock&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true)](https://github.com/LeaFrock)
+[![LeaFrock's Github Stats](https://github-readme-stats.vercel.app/api?username=LeaFrock&show_icons=true&theme=merko&count_private=true&include_all_commits=true)](https://github.com/LeaFrock)
