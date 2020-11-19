@@ -1,4 +1,4 @@
-### Hi there 👋
+#  👋 Hello world
 
 <!--
 **LeaFrock/LeaFrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :raising_hand: Here is LeaFrock...
+
+* :star2: **C# Star**.
+
+* 🔭 Advanced Backend Engineer of .NET, working on *Shanghai* of **China**.
+
+* 👯 Have experience in multiple technology areas, such as game-backend, web-crawler, web-backend...etc.
+
+* 💬 Any questions or collaborations about open-source codes based on C# are welcomed.
+
+## 😄 Have fun!
 
 [![LeaFrock's Github Stats](https://github-readme-stats.vercel.app/api?username=LeaFrock&show_icons=true&theme=merko&count_private=true&include_all_commits=true)](https://github.com/LeaFrock)
