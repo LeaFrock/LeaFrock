@@ -1,4 +1,4 @@
-#  👋 Hello World
+#  👋 Hello World!
 
 <!--
 **LeaFrock/LeaFrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :raising_hand: Here is LeaFrock...
+## :raising_hand: Here is LeaFrock.
 
 * :star2: **C# Star**.
 
-* :school: Advanced Backend Engineer of .NET, working on *Shanghai* of **China**.
+* :school: Senior Backend Engineer of .NET, working on *Shanghai* of **China**.
 
 * :muscle: Have experience in multiple technology areas, such as game-backend, web-crawler, web-backend...etc.
 
