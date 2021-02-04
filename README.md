@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 * :star2: **C# Star**.
 
-* :school: Senior Backend Engineer of .NET, working on *Shanghai* of **China**.
+* :school: Senior Backend Engineer of .NET, working at *Shanghai* of **China**.
 
-* :muscle: Have experience in multiple technology areas, such as game-backend, web-crawler, web-backend...etc.
+* :muscle: Have experience in multiple technology areas, such as game backend, web crawler, web backend...etc.
 
-* 💬 Any questions or collaborations about open-source codes based on C# are welcomed.
+* 💬 Any questions or collaborations based on .NET/C# are welcomed.
 
 ## 😄 Have fun!
 
