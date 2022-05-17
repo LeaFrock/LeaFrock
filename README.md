@@ -15,3 +15,5 @@
 ## 😄 Have fun!
 
 [![LeaFrock's Github Stats](https://github-readme-stats.vercel.app/api?username=LeaFrock&show_icons=true&theme=merko&count_private=true&include_all_commits=true)](https://github.com/LeaFrock)
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=dhravya" alt="dhravya" /> </p>
