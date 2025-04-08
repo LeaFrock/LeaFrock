@@ -12,6 +12,8 @@
 
 ## 🤪 Have fun!
 
-[![LeaFrock's Github Stats](https://github-readme-stats.vercel.app/api?username=LeaFrock&show_icons=true&theme=discord&count_private=true&include_all_commits=true)](https://github.com/LeaFrock)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,git,mysql,mongodb,redis,rabbitmq&theme=light)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LeaFrock&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=LeaFrock&show_icons=true&theme=discord&count_private=true&include_all_commits=true)
+
+[![My Trophy](https://github-profile-trophy.vercel.app/?username=LeaFrock&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
