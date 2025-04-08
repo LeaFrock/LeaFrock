@@ -4,11 +4,15 @@
 
 ## 👋 Hi, I'm LeaFrock. 
 
-* :school: Senior Backend Engineer of .NET, working at *Shanghai* of **China**.
+* 🏫 I'm a Senior Backend Engineer specializing in .NET, living in *Shanghai, China*.
 
-* :muscle: Have experience in multiple technology areas, such as game backend, web crawler, web backend etc..
+* 💪 I've been deeply involved in professional C# development since 2015, building a strong foundation and expertise in this domain. Over the years, I've worked on a variety of challenging and rewarding projects, ranging from game backend development to web crawling and web backend services.
 
-* 💬 Any questions/collaborations based on .NET/C# are welcomed.
+* 🎯 I'm passionate about building high-performance backend systems that drive high-quality user experiences. I take pride in my ability to solve complex problems and optimize performance, ensuring that applications can handle high traffic and large-scale data processing. My experience includes working on projects that require real-time data processing, low-latency responses, and efficient resource utilization.
+
+* 🌐 I enjoy contributing to the open source community through writing articles, participating in projects, and engaging with fellow developers. Whether it's sharing knowledge, working on open-source projects, or collaborating on innovative solutions, I believe in the power of community and continuous learning.
+
+* 💬 I'm always open to discussing .NET/C# related topics (especially those involving performance optimization and best practices) and exploring collaboration opportunities in these areas.
 
 ## 🤪 Have fun!
 
